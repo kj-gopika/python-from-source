@@ -13,7 +13,7 @@ To build a copy of python <br />
  **make** <br />
 
 5. Login as super user. <br />
- **make altinstall ** <br />
+ **make altinstall** <br />
 (To install Python not as the primary installation) <br />
 
 6. Check the python version in /usr/local/bin/python2.7.
